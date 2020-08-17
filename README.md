@@ -1,11 +1,10 @@
-
-## Generate favicon from .png
+#### Generate favicon from .png
 
 Wantet a simple way to generate favicons from png's, and to try out fire for making a CLI.
 
-### Usage:
+##### Usage:
 
-```bash
+``` bash
 python fire_favicon.py convert_png_to_ico <path_to_file>
 ```
 
