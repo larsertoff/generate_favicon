@@ -1,3 +1,4 @@
+
 ## Generate favicon
 
 Wantet a simple way to generate favicons from png's, and to try out fire for making a CLI.
