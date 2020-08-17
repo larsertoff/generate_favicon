@@ -4,7 +4,7 @@ Wantet a simple way to generate favicons from png's, and to try out fire for mak
 
 ##### Usage:
 
-``` bash
+```bash
 python fire_favicon.py convert_png_to_ico <path_to_file>
 ```
 
